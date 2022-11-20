@@ -59,27 +59,27 @@
 ## 💻 Mis Proyectos de Informática
 <div style="display: grid;grid-template-columns: auto auto;">
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/nehuenpereyra/Sistema-Gestion-Catedras-y-Oficinas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Sistema-Gestion-Catedras-y-Oficinas&theme=dark" />
 </a>
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/nehuenpereyra/Sistema-Gestion-Centros-de-Ayuda-y-Turnos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Sistema-Gestion-Centros-de-Ayuda-y-Turnos&theme=dark" />
 </a>
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/nehuenpereyra/Kanpai-Map">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Kanpai-Map&theme=dark" />
 </a>
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/nehuenpereyra/Bookflix-2019">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Bookflix-2019&theme=dark" />
 </a>
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/nehuenpereyra/Sistemas-Distribuidos-y-Paralelos-Optimizacion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Sistemas-Distribuidos-y-Paralelos-Optimizacion&theme=dark" />
 </a>
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/midusi/spectrogram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=midusi&repo=spectrogram&theme=dark" />
 </a>
 
@@ -89,11 +89,11 @@
 
 <div style="display: grid;grid-template-columns: auto auto;">
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/nehuenpereyra/Microcontroladores-MC9S08SH8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Microcontroladores-MC9S08SH8&theme=dark" />
 </a>
 
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+<a href="https://github.com/nehuenpereyra/Comunicaciones-Demodulacion-FM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Comunicaciones-Demodulacion-FM&theme=dark" />
 </a>
 
