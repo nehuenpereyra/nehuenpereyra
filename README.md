@@ -24,6 +24,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
 </div>
 
 ### 📡 Backend skills
@@ -43,6 +44,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
 </div>
 
 
@@ -59,6 +61,14 @@
 ## 💻 Mis Proyectos de Informática
 <div style="display: grid;grid-template-columns: auto auto;">
 
+<a href="https://github.com/nehuenpereyra/manage-token-erc-20">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=manage-token-erc-20&theme=dark" />
+</a>
+
+<a href="https://github.com/nehuenpereyra/Kanpai-Map">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Kanpai-Map&theme=dark" />
+</a>
+  
 <a href="https://github.com/nehuenpereyra/Sistema-Gestion-Catedras-y-Oficinas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Sistema-Gestion-Catedras-y-Oficinas&theme=dark" />
 </a>
@@ -67,16 +77,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Sistema-Gestion-Centros-de-Ayuda-y-Turnos&theme=dark" />
 </a>
 
-<a href="https://github.com/nehuenpereyra/Kanpai-Map">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Kanpai-Map&theme=dark" />
-</a>
-
 <a href="https://github.com/nehuenpereyra/Bookflix-2019">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Bookflix-2019&theme=dark" />
-</a>
-
-<a href="https://github.com/nehuenpereyra/Sistemas-Distribuidos-y-Paralelos-Optimizacion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Sistemas-Distribuidos-y-Paralelos-Optimizacion&theme=dark" />
 </a>
 
 <a href="https://github.com/midusi/spectrogram">
