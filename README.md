@@ -65,8 +65,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=manage-token-erc-20&theme=dark" />
 </a>
 
-<a href="https://github.com/nehuenpereyra/Kanpai-Map">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Kanpai-Map&theme=dark" />
+<a href="https://github.com/midusi/spectrogram">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=midusi&repo=spectrogram&theme=dark" />
 </a>
   
 <a href="https://github.com/nehuenpereyra/Sistema-Gestion-Catedras-y-Oficinas">
@@ -76,13 +76,13 @@
 <a href="https://github.com/nehuenpereyra/Sistema-Gestion-Centros-de-Ayuda-y-Turnos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Sistema-Gestion-Centros-de-Ayuda-y-Turnos&theme=dark" />
 </a>
+  
+<a href="https://github.com/nehuenpereyra/Kanpai-Map">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Kanpai-Map&theme=dark" />
+</a>
 
 <a href="https://github.com/nehuenpereyra/Bookflix-2019">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Bookflix-2019&theme=dark" />
-</a>
-
-<a href="https://github.com/midusi/spectrogram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=midusi&repo=spectrogram&theme=dark" />
 </a>
 
 </div>
