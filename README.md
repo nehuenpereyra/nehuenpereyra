@@ -61,7 +61,7 @@
 ## 💻 Mis Proyectos de Informática
 <div style="display: grid;grid-template-columns: auto auto;">
 
-<a href="https://github.com/nehuenpereyra/Bookflix-2019">
+<a href="https://github.com/nehuenpereyra/web-agent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=web-agent&theme=dark" />
 </a>
 
