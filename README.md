@@ -61,6 +61,10 @@
 ## 💻 Mis Proyectos de Informática
 <div style="display: grid;grid-template-columns: auto auto;">
 
+<a href="https://github.com/nehuenpereyra/Bookflix-2019">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=web-agent&theme=dark" />
+</a>
+
 <a href="https://github.com/nehuenpereyra/manage-token-erc-20">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=manage-token-erc-20&theme=dark" />
 </a>
@@ -79,10 +83,6 @@
   
 <a href="https://github.com/nehuenpereyra/Kanpai-Map">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Kanpai-Map&theme=dark" />
-</a>
-
-<a href="https://github.com/nehuenpereyra/Bookflix-2019">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nehuenpereyra&repo=Bookflix-2019&theme=dark" />
 </a>
 
 </div>
